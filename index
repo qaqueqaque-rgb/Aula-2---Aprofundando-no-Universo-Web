@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>treine.me</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h2 class="logo">treine<span>.me</span></h2>
+    <nav>
+      <a href="#" class="ativo">Home</a>
+      <a href="#">Sobre</a>
+      <a href="#">Treinar</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="texto">
+      <h1>
+        Treinos <span>exclusivos</span><br>
+        para você!
+      </h1>
+
+      <p>
+        Nós criamos treinos <strong>exclusivos e únicos</strong> para você.<br>
+        Invista no seu corpo e <strong>tenha muito mais performance</strong> e
+        qualidade de vida.
+      </p>
+
+      <button id="btnComecar">
+        Comece já
+      </button>
+    </section>
+
+    <section class="imagem">
+      <img src="imagem.png" alt="Pessoas treinando">
+    </section>
+  </main>
+
+  <footer>
+    fale conosco no instagram <strong>@treine.me</strong>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
